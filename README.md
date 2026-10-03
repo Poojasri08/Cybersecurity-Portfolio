@@ -1,16 +1,67 @@
-# React + Vite
+# Pooja Sri A | Cybersecurity Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website for Pooja Sri A, a Computer Science and Engineering (AI & ML) student exploring cybersecurity through practical learning and projects.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am interested in:
 
-## React Compiler
+- Web Security
+- API Security
+- Red Teaming
+- AI Security
+- Application Security
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I learn security by building applications, testing them, studying vulnerabilities, and understanding how security controls work in practice.
 
-## Expanding the ESLint configuration
+## Featured Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Logic Leak 2.0
+
+**Interactive Secure Code Review & Vulnerability Learning Platform**
+
+Logic Leak 2.0 is a cybersecurity learning project designed to help users understand common application vulnerabilities through interactive secure-code challenges.
+
+**Technology:**
+
+- React
+- Node.js
+- Express
+- SQLite
+- JWT
+- bcrypt
+- JavaScript
+
+**Security concepts explored:**
+
+- SQL Injection
+- Input Validation
+- Authentication
+- Authorization
+- Secure Coding
+
+## Security Practice
+
+I have practiced web security concepts using:
+
+- Burp Suite Community
+- PortSwigger Web Security Academy
+- TryHackMe
+
+Areas explored include SQL Injection, IDOR, authentication weaknesses, password reset issues, input validation, and basic web application testing.
+
+## Experience
+
+### WAPT Intern | IqraSec Academy
+
+Practical exposure to web application penetration testing, vulnerability identification, Burp Suite, SQL Injection labs, and web security testing methodologies.
+
+## Technology
+
+```text
+Frontend      React
+Backend       Node.js / Express
+Database      SQLite
+Authentication JWT / bcrypt
+Languages     JavaScript
+Security      Burp Suite / PortSwigger / TryHackMe
